@@ -11,7 +11,7 @@ venv\Scripts\activate
 install required libraries
 pip install -r requirements.txt
 
-model is already generates , if needed you can make a new one by sparing 2-3 hr 
+model is already generates , if needed you can make a new one by sparing 2-3 hours
 python train_mask_detector.py
 
 check if the cam of your device is working and run the camera service
