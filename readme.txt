@@ -1,4 +1,4 @@
-
+*Face Mask Detection Using Machine Learning*
 
 This project focuses on implementing a face mask detection system using machine learning techniques. The goal of this project is to detect whether a person in an image or video is wearing a face mask or not. By leveraging machine learning algorithms and computer vision techniques, we have developed a model capable of accurately classifying images into two categories: "With Mask" and "Without Mask." This project aims to contribute to public health efforts by providing a tool that can assist in enforcing face mask regulations in various settings, such as hospitals, schools, and public spaces.
 
